@@ -1,0 +1,23 @@
+
+
+
+#container{
+   border: 2px solid black;
+   width: 20%;
+   margin: 100px;
+   margin-left: 70px;
+   padding: 20px;
+   font-size: larger;
+   background-color: rgb(227, 214, 240);
+}
+
+button {
+    font-size: larger;
+    color: #ff3c00;
+    width: 40%;
+    background-color: blanchedalmond;
+
+}
+input{
+    font-size: large;
+}
